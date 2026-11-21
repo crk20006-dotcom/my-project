@@ -1,0 +1,6 @@
+{
+  "name": "Project Genesis",
+  "description": "Independent AI Operating System — Step 01 Core Software Platform",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
